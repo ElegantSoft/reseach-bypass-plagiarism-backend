@@ -12,6 +12,7 @@ django-rest-knox = "*"
 nltk = "*"
 gunicorn = "*"
 django-heroku = "*"
+django-cors-headers = "*"
 
 [requires]
 python_version = "3.7"
